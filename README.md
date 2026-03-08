@@ -1,0 +1,2 @@
+# Spendly
+Simple expense tracker
